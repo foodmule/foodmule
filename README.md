@@ -53,7 +53,7 @@ You can also contribute by sharing the project with a developer friend or by com
 - <a href="https://github.com/tastyigniter/TastyIgniter">TastyIgniter</a>
 ## Contributors page
 
-If you contribute to the project, to be added to the list open an issue in the repo with the following description: `@ all-contributors please add <@yourusername> for <project (s) to which you contributed>`
+If you contribute to the project, to be added to the list open an issue in the [repo](https://github.com/foodmule/contributors) with the following description: `@ all-contributors please add <@yourusername> for <project (s) to which you contributed>`
 
 # Il progetto
 
