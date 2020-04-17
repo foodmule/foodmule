@@ -3,6 +3,58 @@ Food Mule, delivery website to help italian companies during Covid 19
 
 [![Zulip chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://foodmule.zulipchat.com/join/eo7bl2wyebl209pyxuhkbnzr/)
 
+
+# The project
+
+## <a href="https://partner.foodmule.me" > Project website </a>
+
+To help the activities that make home deliveries we decided to make a system available to manage orders free and opensource.
+
+#### Order management
+
+A simple and fast system that allows you to receive orders comfortably in your smartphone, tablet or PC.
+
+#### Online payment
+
+To ensure your safety, you can receive payments directly online.
+
+#### Free
+
+The system will be free and open source which means that you can also copy it and use it on your site.
+
+#### Multi user
+
+You will be able to create an account for each member of your team in order to better organize deliveries.
+
+# How to contribute
+
+## [Developer website](https://dev.foodmule.me)
+
+Food Mule is based on [TastyIgniter](https://tastyigniter.com), to help you can:
+
+#### Solve TastyIgniter bugs
+
+TastyIgniter is open source and is still in beta, to help you can help with development [here](https://tastyigniter.com/get-involved)
+
+#### Develop an app
+
+TastyIgniter is a web platform based on Laravel but it would be fantastic to have an app, if you want to offer us yours, [join the community](https://foodmule.zulipchat.com/join/eo7bl2wyebl209pyxuhkbnzr/)
+
+#### Develop extensions
+
+TastyIgniter allows you to add extensions, to make it work better there are some that we would need, find them [here](https://github.com/orgs/foodmule/projects/1).
+
+#### Aren't you a developer?
+
+You can also contribute by sharing the project with a developer friend or by communicating to an activity that we are working on this project for them.
+
+## Repo to contribute to
+
+- <a href="https://github.com/tastyigniter/TastyIgniter">TastyIgniter</a>
+## Contributors page
+
+If you contribute to the project, to be added to the list open an issue in the repo with the following description: `@ all-contributors please add <@yourusername> for <project (s) to which you contributed>`
+
 # Il progetto
 
 ## <a href="https://partner.foodmule.me" > Sito del progetto </a>
